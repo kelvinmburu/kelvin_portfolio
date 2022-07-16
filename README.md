@@ -1,2 +1,2 @@
-# kelvin_portfolio
-This is my web portfolio that showcases my projects.
+# Kelvin_Portfolio
+This is my personal portfolio platform showcasing my skills and projects.
