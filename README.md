@@ -1,2 +1,2 @@
 # Kelvin_Portfolio
-This is my personal portfolio platform showcasing my skills and projects.
+This is my personal portfolio platform showcasing my skills, blogs, and projects.
